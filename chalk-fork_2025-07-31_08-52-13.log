@@ -1,0 +1,98 @@
+[2025-07-31 08:52:13.276] Changing working directory from C:\Users\lucygramley to c:\Users\lucygramley\Downloads\ai_test_repos\chalk-fork
+[2025-07-31 08:52:49.328] Updating 8 packages at c:\Users\lucygramley\Downloads\ai_test_repos\chalk-fork
+[2025-07-31 08:54:27.716] Analyzing project at: c:\Users\lucygramley\Downloads\ai_test_repos\chalk-fork
+[2025-07-31 08:54:27.717] Analyzing repository structure...
+[2025-07-31 08:54:27.911] No monorepo structure detected
+[2025-07-31 08:54:27.913] Generating installation commands...
+[2025-07-31 08:54:28.466] Found 1 package installation tasks
+[2025-07-31 08:54:28.468] Installing packages...
+[2025-07-31 08:54:31.502] Looking for local TypeScript installation...
+[2025-07-31 08:54:31.506] Using local TypeScript compiler at: c:\Users\lucygramley\Downloads\ai_test_repos\chalk-fork\node_modules\typescript\lib\tsc.js
+[2025-07-31 08:54:31.508] Building project to collect baseline errors...
+[2025-07-31 08:54:31.515] Found 0 errors in initial build
+[2025-07-31 08:54:44.429] Updating packages in the following order:
+ @types/node, ava, c8, color-convert, execa, log-update, tsd, xo
+[2025-07-31 08:54:44.589] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:54:44.615] Updating package group (1/8): @types/node
+[2025-07-31 08:54:50.954] Updating @types/node from ^16.11.10 to ^24.1.0
+[2025-07-31 08:54:50.962] No new errors found after updating @types/node.
+[2025-07-31 08:54:50.964] Modified files while updating package(s) @types/node: 
+package.json
+[2025-07-31 08:54:50.966] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:54:50.968] Package group @types/node completed in 00:00:06.
+Successfully upgraded 1 packages: @types/node
+[2025-07-31 08:54:50.970] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:54:50.971] Updating package group (2/8): ava
+[2025-07-31 08:54:58.549] Updating ava from ^3.15.0 to ^6.4.1
+[2025-07-31 08:54:58.553] No new errors found after updating ava.
+[2025-07-31 08:54:58.555] Modified files while updating package(s) ava: 
+package.json
+[2025-07-31 08:54:58.557] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:54:58.558] Package group ava completed in 00:00:07.
+Successfully upgraded 1 packages: ava
+[2025-07-31 08:54:58.560] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:54:58.561] Updating package group (3/8): c8
+[2025-07-31 08:55:03.852] Updating c8 from ^7.10.0 to ^10.1.3
+[2025-07-31 08:55:03.855] No new errors found after updating c8.
+[2025-07-31 08:55:03.858] Modified files while updating package(s) c8: 
+package.json
+[2025-07-31 08:55:03.859] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:55:03.861] Package group c8 completed in 00:00:05.
+Successfully upgraded 1 packages: c8
+[2025-07-31 08:55:03.863] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:55:03.865] Updating package group (4/8): color-convert
+[2025-07-31 08:55:08.889] Updating color-convert from ^2.0.1 to ^3.1.0
+[2025-07-31 08:55:08.894] No new errors found after updating color-convert.
+[2025-07-31 08:55:08.896] Modified files while updating package(s) color-convert: 
+package.json
+[2025-07-31 08:55:08.897] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:55:08.899] Package group color-convert completed in 00:00:05.
+Successfully upgraded 1 packages: color-convert
+[2025-07-31 08:55:08.901] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:55:08.902] Updating package group (5/8): execa
+[2025-07-31 08:55:14.277] Updating execa from ^6.0.0 to ^9.6.0
+[2025-07-31 08:55:14.281] No new errors found after updating execa.
+[2025-07-31 08:55:14.283] Modified files while updating package(s) execa: 
+package.json
+[2025-07-31 08:55:14.284] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:55:14.287] Package group execa completed in 00:00:05.
+Successfully upgraded 1 packages: execa
+[2025-07-31 08:55:14.289] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:55:14.291] Updating package group (6/8): log-update
+[2025-07-31 08:55:19.586] Updating log-update from ^5.0.0 to ^6.1.0
+[2025-07-31 08:55:19.590] No new errors found after updating log-update.
+[2025-07-31 08:55:19.592] Modified files while updating package(s) log-update: 
+package.json
+[2025-07-31 08:55:19.594] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:55:19.596] Package group log-update completed in 00:00:05.
+Successfully upgraded 1 packages: log-update
+[2025-07-31 08:55:19.598] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:55:19.600] Updating package group (7/8): tsd
+[2025-07-31 08:55:26.756] Updating tsd from ^0.19.0 to ^0.32.0
+[2025-07-31 08:55:26.759] No new errors found after updating tsd.
+[2025-07-31 08:55:26.761] Modified files while updating package(s) tsd: 
+package.json
+[2025-07-31 08:55:26.762] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:55:26.763] Package group tsd completed in 00:00:07.
+Successfully upgraded 1 packages: tsd
+[2025-07-31 08:55:26.765] Using VS Code provided token for Kusto authentication
+[2025-07-31 08:55:26.766] Updating package group (8/8): xo
+[2025-07-31 08:55:44.596] Updating xo from ^0.57.0 to ^1.2.1
+[2025-07-31 08:55:44.602] No new errors found after updating xo.
+[2025-07-31 08:55:44.604] Modified files while updating package(s) xo: 
+package.json
+[2025-07-31 08:55:44.607] Deleted temp directory for PackageUpdater.
+[2025-07-31 08:55:44.610] Package group xo completed in 00:00:17.
+Successfully upgraded 1 packages: xo
+[2025-07-31 08:55:44.612] All packages updated.
+[2025-07-31 08:55:44.614] Updater completed in 00:03:31.
+Successfully upgraded 8 packages.
+Partially upgraded 0 packages.
+Unable to upgrade 0 packages.
+Total packages available for upgrade: 8
+[2025-07-31 08:55:44.618] === Token Usage Summary ===
+Total API Calls: 0
+Total Tokens: 0 (Prompt: 0, Completion: 0)
+Usage by Model:
+
+[2025-07-31 08:55:44.621] Report written to c:\Users\lucygramley\.vscode-insiders\extensions\emilyfischer.jsts-upgrade-extension-0.0.1\dist\updates\logs\chalk-fork_2025-07-31_08-52-13.txt
