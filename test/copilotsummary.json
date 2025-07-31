@@ -1,0 +1,77 @@
+{
+  "packages_upgraded": [
+    {
+      "package": "@types/node",
+      "from_version": "^16.11.10",
+      "to_version": "^24.1.0",
+      "duration": "00:00:06"
+    },
+    {
+      "package": "ava",
+      "from_version": "^3.15.0", 
+      "to_version": "^6.4.1",
+      "duration": "00:00:07"
+    },
+    {
+      "package": "c8",
+      "from_version": "^7.10.0",
+      "to_version": "^10.1.3", 
+      "duration": "00:00:05"
+    },
+    {
+      "package": "color-convert",
+      "from_version": "^2.0.1",
+      "to_version": "^3.1.0",
+      "duration": "00:00:05"
+    },
+    {
+      "package": "execa", 
+      "from_version": "^6.0.0",
+      "to_version": "^9.6.0",
+      "duration": "00:00:05"
+    },
+    {
+      "package": "log-update",
+      "from_version": "^5.0.0",
+      "to_version": "^6.1.0", 
+      "duration": "00:00:05"
+    },
+    {
+      "package": "tsd",
+      "from_version": "^0.19.0",
+      "to_version": "^0.32.0",
+      "duration": "00:00:07"
+    },
+    {
+      "package": "xo",
+      "from_version": "^0.57.0",
+      "to_version": "^1.2.1",
+      "duration": "00:00:17"
+    }
+  ],
+  "errors_encountered": [],
+  "errors_resolved": [],
+  "errors_unresolved": [],
+  "ai_usage": {
+    "ai_used": false,
+    "total_api_calls": 0,
+    "total_tokens": 0,
+    "prompt_tokens": 0,
+    "completion_tokens": 0,
+    "models_used": [],
+    "how_ai_was_used": "No AI assistance was required for this upgrade process"
+  },
+  "overall_summary": {
+    "total_execution_time": "00:03:31",
+    "total_packages_available_for_upgrade": 8,
+    "successfully_upgraded": 8,
+    "partially_upgraded": 0,
+    "unable_to_upgrade": 0,
+    "project_location": "c:\\Users\\lucygramley\\Downloads\\ai_test_repos\\chalk-fork",
+    "monorepo_detected": false,
+    "initial_build_errors": 0,
+    "typescript_compiler_used": "c:\\Users\\lucygramley\\Downloads\\ai_test_repos\\chalk-fork\\node_modules\\typescript\\lib\\tsc.js",
+    "files_modified": ["package.json"],
+    "process_status": "All packages were successfully upgraded without any errors. No TypeScript compilation issues were introduced during the upgrade process. The tool automatically verified compatibility after each package update."
+  }
+}
